@@ -23,3 +23,5 @@ United States | Brazil | United Kingdom | India | Canada |
 
 Для передачи аудио высокого качества звука необходимо интернет со скоростью [2.4 МБ в минуту](https://bool.dev/news/detail/skolko-vam-nuzhno-trafika-na-audio-i-video-kontent-dlya-vashego-smartfona), то есть 0.32 МБит в секунду.
 
+Из приведенных выше данных можно сделать вывод, что суммарный суточный траффик составляет 886704 Гбайт в сутки.
+
