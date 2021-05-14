@@ -2,6 +2,8 @@
 Курсовая работа по курсу highload в технопарке
 
 ## Аудитория
+Clubhouse доступен только на iphone, что значительно ограничивает целевую аудиторию.
+
 Clubhouse был скачан примерно [13,4 миллиона раз](https://www.bbc.com/news/technology-57058516#:~:text=Clubhouse%20had%20about%2013.4%20million,store%20analysts%20Sensor%20Tower%20said.). Еженедельная количество активных пользователей в Clubhouse составляет примерно [10 миллионов](https://backlinko.com/clubhouse-users#clubhouse-usage-statistics) пользователей.
 
 Сегодня clubhouse доступен в [154 странах](https://backlinko.com/clubhouse-users#how-popular). Процентное соотношение пользователей по странам выглядит следующим образом:
@@ -24,4 +26,3 @@ United States | Brazil | United Kingdom | India | Canada |
 Для передачи аудио высокого качества звука необходимо интернет со скоростью [2.4 МБ в минуту](https://bool.dev/news/detail/skolko-vam-nuzhno-trafika-na-audio-i-video-kontent-dlya-vashego-smartfona), то есть 0.32 МБит в секунду.
 
 Из приведенных выше данных можно сделать вывод, что суммарный суточный траффик составляет 886704 Гбайт в сутки.
-
