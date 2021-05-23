@@ -32,3 +32,13 @@ United States | Brazil | United Kingdom | India | Canada |
 
 
 ![image](https://github.com/SanSanchezzz/technopark_highload-course-work/blob/master/png/DBL.png?raw=true)
+
+
+## Физическая схема БД
+На рисунке ниже представлена физическая схема базы данных.
+
+![image](https://github.com/SanSanchezzz/technopark_highload-course-work/blob/master/png/dbp.png?raw=true)
+
+В clubhouse чаще всего должны происходить запросы на авторизацию и подключения к комнатам, по этим причинам логичным решением будет вынести сущности session и user_room в in-memory базу данных redis. Остальные сущности будем хранить в СУБД Postgres, так как это является одним из самых быстрых решений.
+
+## Выбор технологий
