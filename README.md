@@ -31,4 +31,4 @@ United States | Brazil | United Kingdom | India | Canada |
 На рисунке ниже представлена логическая схема базы данных.
 
 
-![image](./pdf/DBL.pdf?raw=true)
+![image](https://github.com/SanSanchezzz/technopark_highload-course-work/blob/master/png/DBL.png?raw=true)
